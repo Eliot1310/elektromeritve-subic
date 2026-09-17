@@ -10,4 +10,4 @@ fix this website according to the next instructions:
 
 - Make the certificates bigger on hover and jump to the link for more info about them on click (if not found jump to some random wiki page)
 
-- Populate the references with some pictures and real lookign data, make that into a separate page with the other
+- Populate the references with some pictures and real lookign data, make that into a separate page with the othea
